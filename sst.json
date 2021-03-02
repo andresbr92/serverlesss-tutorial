@@ -1,0 +1,6 @@
+{
+  "name": "my-sst-app",
+  "stage": "dev",
+  "region": "eu-central-1",
+  "lint": true
+}
